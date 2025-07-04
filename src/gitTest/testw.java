@@ -7,6 +7,9 @@ public class testw {
 	
 		// TODO Auto-generated method stub
 		System.out.println("Kedar");
+		System.out.println("Kedar1");
+		System.out.println("Kedar2");
+		System.out.println("Kedar3");
 	}
 
 }
